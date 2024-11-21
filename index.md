@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-At the time of writing, it is a chilly day in Washington state and Washington D.C.
+Check out my [first blog]({{ site.baseurl }}{% link _posts/2024-11-21.md %})!
